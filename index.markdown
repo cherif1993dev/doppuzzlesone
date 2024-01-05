@@ -110,7 +110,7 @@
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   overflow: hidden;
-  margin: 0 10px;
+  margin: 0;
   text-decoration: none;
 }
 
@@ -188,10 +188,11 @@ position: relative;
 
 
 body{
-margin:0;
-padding:0;
+margin: 0 ;
 display: flex ;
 user-select: none ;
+align-items: center ;
+justify-content: center ;
 background-color: #e5e7e9 ;
 }
 .img {
