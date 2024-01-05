@@ -190,8 +190,6 @@ position: relative;
 body{
 display: flex ;
 user-select: none ;
-align-items: center ;
-justify-content: center ;
 background-color: #e5e7e9 ;
 }
 .img {
