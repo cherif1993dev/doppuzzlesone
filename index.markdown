@@ -188,6 +188,8 @@ position: relative;
 
 
 body{
+margin:0;
+padding:0;
 display: flex ;
 user-select: none ;
 background-color: #e5e7e9 ;
