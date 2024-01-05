@@ -188,6 +188,7 @@ position: relative;
 
 
 body{
+display: flex ;
 user-select: none ;
 align-items: center ;
 justify-content: center ;
