@@ -110,7 +110,7 @@
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   overflow: hidden;
-  margin: 0 10px;
+  margin: 0px 0px 10px 0px;
   text-decoration: none;
 }
 
