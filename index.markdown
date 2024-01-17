@@ -1,27 +1,27 @@
 <div class="game-row">
-  <a href="https://html5.gamedistribution.com/e61f3d39edb14176973383e5be036bb8/" class="game-box">
-    <img src="https://html5.gamedistribution.com/rvvASMiM/e61f3d39edb14176973383e5be036bb8/stick2p384.jpg" alt="Game 1">
+  <a href="https://play.famobi.com/wrapper/jelly-collapse/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg?v=0.2-cd28b523" alt="Game 1">
     <div class="game-info">
-      <h2>STICKMAN FIGHTING 2 PLAYER</h2>
+      <h2>JELLY COLLAPSE</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/0605fe6f1da5420e8ca8586247c88a15/" class="game-box">
-    <img src="https://img.gamedistribution.com/0605fe6f1da5420e8ca8586247c88a15-512x512.jpeg" alt="Game 2">
+  <a href="https://play.famobi.com/wrapper/2048/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/2048Teaser.jpg?v=0.2-cd28b523" alt="Game 2">
     <div class="game-info">
-      <h2>STICKMAN TEAM FORCE 2</h2>
+      <h2>2048</h2>
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://html5.gamedistribution.com/7c3957999e85405bba3b4a25f2a15529/" class="game-box">
-    <img src="https://img.gamedistribution.com/7c3957999e85405bba3b4a25f2a15529-512x512.jpeg" alt="Game 3">
+  <a href="https://play.famobi.com/wrapper/element-balls/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Element_BallsTeaser.jpg?v=0.2-cd28b523" alt="Game 3">
     <div class="game-info">
-      <h2>STICKMAN DRAW THE BRIDGE</h2>
+      <h2>ELEMENT BALLS</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/769bf8665f1f4606b158ef78b47ab974/" class="game-box">
-    <img src="https://img.gamedistribution.com/5fcb5f02c324478b98263fb1fad28617-512x384.jpg" alt="Game 4">
+  <a href="https://play.famobi.com/wrapper/green-ball/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/GreenBallTeaser.jpg?v=0.2-cd28b523" alt="Game 4">
     <div class="game-info">
-      <h2>DEFEAT THE MONSTER</h2>
+      <h2>GREEN BALL</h2>
     </div>
   </a>
 </div><div class="game-row">
@@ -31,23 +31,23 @@
       <h2>GIANT RUSH!</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/722176c4785042368e5b4f734cc14b9e/" class="game-box">
-    <img src="https://img.gamedistribution.com/722176c4785042368e5b4f734cc14b9e-512x512.jpeg" alt="Game 6">
+  <a href="https://play.famobi.com/wrapper/smarty-bubbles-2/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles2Teaser.jpg?v=0.2-cd28b523" alt="Game 6">
     <div class="game-info">
-      <h2>STICKMAN SWING</h2>
+      <h2>SMARTY BUBBLES 2</h2>
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://html5.gamedistribution.com/2d529603443d463eaf36c061b71f84ff/" class="game-box">
-    <img src="https://img.gamedistribution.com/2d529603443d463eaf36c061b71f84ff-512x512.jpeg" alt="Game 7">
+  <a href="https://play.famobi.com/wrapper/dices-2048-3d/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg?v=0.2-cd28b523" alt="Game 7">
     <div class="game-info">
-      <h2>SPIDEY SWING</h2>
+      <h2>DICES 2048 3D</h2>
     </div>
   </a>
-  <a href="https://html5.gamedistribution.com/63137d6d920145f68f3efddfe0f45675/" class="game-box">
-    <img src="https://img.gamedistribution.com/63137d6d920145f68f3efddfe0f45675-512x512.png" alt="Game 8">
+  <a href="https://play.famobi.com/wrapper/train-2048/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Train2048Teaser.jpg?v=0.2-cd28b523" alt="Game 8">
     <div class="game-info">
-      <h2>VEX 3 XMAS</h2>
+      <h2>TRAIN 2048</h2>
     </div>
   </a>
 </div>
@@ -58,34 +58,6 @@
     <div class="app-icons">
     <a href="#">
       <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 1"></a>
-	  
-    <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 2"></a>
-	  
-    <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 3"></a>
-	  
-    <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 4"></a>
-	  
-    <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 5"></a>
-	  
-	 <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 6"></a>
-	  
-	  <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 7"></a>
-	  
-	  <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 8"></a>
-	  
-	  <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 9"></a>
-	  
-	  <a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App10"></a>
-	  
   </div>
 </div>
   </div>
