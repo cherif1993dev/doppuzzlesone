@@ -147,6 +147,9 @@
 .app-container {
   position: relative;
         top: 40px;
+		
+				/*  hide app-container DIV */
+		visibility: hidden;
 }
 
 .app-label {
