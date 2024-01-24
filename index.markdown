@@ -64,16 +64,16 @@
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://play.famobi.com/wrapper/dices-2048-3d/A1000-10" class="game-box">
+  <a href="https://play.famobi.com/wrapper/cannon-balls-3d/A1000-10" class="game-box">
     <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg?v=0.2-cd28b523" alt="Game 11">
     <div class="game-info">
-      <h2>DICES 2048 3D</h2>
+      <h2>CANNON BALLS 3D</h2>
     </div>
   </a>
-  <a href="https://play.famobi.com/wrapper/train-2048/A1000-10" class="game-box">
-    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Train2048Teaser.jpg?v=0.2-cd28b523" alt="Game 12">
+  <a href="https://www.bestgames.com/games/Number-Run-3d/index.html?bestgames" class="game-box">
+    <img src="https://www.bestgames.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Number-Run-3d.jpg" alt="Game 12">
     <div class="game-info">
-      <h2>TRAIN 2048</h2>
+      <h2>Number Run 3D</h2>
     </div>
   </a>
 </div>
