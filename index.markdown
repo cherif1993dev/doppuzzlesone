@@ -65,7 +65,7 @@
   </a>
 </div><div class="game-row">
   <a href="https://play.famobi.com/wrapper/cannon-balls-3d/A1000-10" class="game-box">
-    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg?v=0.2-cd28b523" alt="Game 11">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg" alt="Game 11">
     <div class="game-info">
       <h2>CANNON BALLS 3D</h2>
     </div>
