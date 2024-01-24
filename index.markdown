@@ -63,8 +63,6 @@
       <h2>TRAIN 2048</h2>
     </div>
   </a>
-</div>
-
 </div><div class="game-row">
   <a href="https://play.famobi.com/wrapper/dices-2048-3d/A1000-10" class="game-box">
     <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg?v=0.2-cd28b523" alt="Game 11">
