@@ -84,6 +84,9 @@
     <div class="app-icons">
     <a href="#">
       <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 1"></a>
+	  
+	<a href="#">
+      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 1"></a>
   </div>
 </div>
   </div>
