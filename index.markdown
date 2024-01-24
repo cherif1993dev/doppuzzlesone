@@ -39,7 +39,7 @@
   </a>
 </div><div class="game-row">
   <a href="https://play.famobi.com/wrapper/99-balls/A1000-10" class="game-box">
-    <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="Game 7">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/99BallsTeaser.jpg" alt="Game 7">
     <div class="game-info">
       <h2>99 BALLS</h2>
     </div>
