@@ -1,10 +1,23 @@
 <div class="game-row">
+  <a href="https://play.famobi.com/wrapper/giant-2048/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Giant2048Teaser.jpg" alt="Game 9">
+    <div class="game-info">
+      <h2>GIANT 2048</h2>
+    </div>
+  </a>
+  <a href="https://play.famobi.com/wrapper/tower-crash-3d/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/TowerCrash3dTeaser.jpg" alt="Game 10">
+    <div class="game-info">
+      <h2>TOWER CRASH 3D</h2>
+    </div>
+  </a>
+</div><div class="game-row">
   <a href="https://play.famobi.com/wrapper/jelly-collapse/A1000-10" class="game-box">
     <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg?v=0.2-cd28b523" alt="Game 1">
     <div class="game-info">
       <h2>JELLY COLLAPSE</h2>
     </div>
-  </a>
+	</a>
   <a href="https://play.famobi.com/wrapper/2048/A1000-10" class="game-box">
     <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/2048Teaser.jpg?v=0.2-cd28b523" alt="Game 2">
     <div class="game-info">
