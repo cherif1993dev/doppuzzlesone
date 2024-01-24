@@ -25,10 +25,10 @@
     </div>
   </a>
 </div><div class="game-row">
-  <a href="https://html5.gamedistribution.com/721d23c521c4447a8f8cedc31377f271/" class="game-box">
+  <a href="https://play.famobi.com/wrapper/99-balls/A1000-10" class="game-box">
     <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="Game 5">
     <div class="game-info">
-      <h2>GIANT RUSH!</h2>
+      <h2>99 BALLS</h2>
     </div>
   </a>
   <a href="https://play.famobi.com/wrapper/smarty-bubbles-2/A1000-10" class="game-box">
@@ -48,6 +48,32 @@
     <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Train2048Teaser.jpg?v=0.2-cd28b523" alt="Game 8">
     <div class="game-info">
       <h2>TRAIN 2048</h2>
+    </div>
+  </a>
+</div><div class="game-row">
+  <a href="https://play.famobi.com/wrapper/giant-2048/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Giant2048Teaser.jpg" alt="Game 9">
+    <div class="game-info">
+      <h2>GIANT 2048</h2>
+    </div>
+  </a>
+  <a href="https://play.famobi.com/wrapper/tower-crash-3d/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/TowerCrash3dTeaser.jpg" alt="Game 10">
+    <div class="game-info">
+      <h2>TOWER CRASH 3D</h2>
+    </div>
+  </a>
+</div><div class="game-row">
+  <a href="https://play.famobi.com/wrapper/cannon-balls-3d/A1000-10" class="game-box">
+    <img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg" alt="Game 11">
+    <div class="game-info">
+      <h2>CANNON BALLS 3D</h2>
+    </div>
+  </a>
+  <a href="https://www.bestgames.com/games/Number-Run-3d/index.html?bestgames" class="game-box">
+    <img src="https://www.bestgames.com/cdn-cgi/image/quality=78,fit=cover,format=auto/thumb/Number-Run-3d.jpg" alt="Game 12">
+    <div class="game-info">
+      <h2>Number Run 3D/h2>
     </div>
   </a>
 </div>
