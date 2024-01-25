@@ -1,6 +1,6 @@
 <div class="game-row">
   <a href="https://html5.gamedistribution.com/98484fa85a944a9e9479be72901fda1f/" class="game-box">
-    <img src=""https://img.gamedistribution.com/98484fa85a944a9e9479be72901fda1f-512x512.jpeg" alt="Game 1">
+    <img src="https://img.gamedistribution.com/98484fa85a944a9e9479be72901fda1f-512x512.jpeg" alt="Game 1">
     <div class="game-info">
       <h2>Draw Missing Part Puzzle</h2>
     </div>
