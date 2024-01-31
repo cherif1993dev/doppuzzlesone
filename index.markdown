@@ -1,29 +1,17 @@
 <div class="game-row">
   <a href="https://html5.gamedistribution.com/98484fa85a944a9e9479be72901fda1f/" class="game-box">
     <img src="https://img.gamedistribution.com/98484fa85a944a9e9479be72901fda1f-512x512.jpeg" alt="Game 1">
-    <div class="game-info">
-      <h2>Draw Missing Part Puzzle</h2>
-    </div>
   </a>
   <a href="https://html5.gamedistribution.com/f9b6d02098bc4f738198ecab632dc602/" class="game-box">
     <img src="https://img.gamedistribution.com/f9b6d02098bc4f738198ecab632dc602-512x512.jpeg" alt="Game 2">
-    <div class="game-info">
-      <h2>Match Missing Pieces Kids Educational Game</h2>
-    </div>
   </a>
 </div>
 <div class="game-row">
   <a href="https://html5.gamedistribution.com/75ede477cf0243b181ac4e0e09e056bd/" class="game-box">
     <img src="https://img.gamedistribution.com/75ede477cf0243b181ac4e0e09e056bd-512x512.jpeg" alt="Game 3">
-    <div class="game-info">
-      <h2>Draw The Rest</h2>
-    </div>
   </a>
   <a href="https://html5.gamedistribution.com/61377c4361a74aa195a27a44fb0a2f8d/" class="game-box">
     <img src="https://img.gamedistribution.com/61377c4361a74aa195a27a44fb0a2f8d-512x512.jpeg" alt="Game 4">
-    <div class="game-info">
-      <h2>DOP Puzzle Displace One Part</h2>
-    </div>
   </a>
 </div>
 
@@ -35,7 +23,7 @@
       <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 1"></a>
 	  
 	<a href="#">
-      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 1"></a>
+      <img src="https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg" alt="App 2"></a>
   </div>
 </div>
   </div>
